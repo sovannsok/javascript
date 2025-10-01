@@ -1,3 +1,3 @@
-function onclick() {
+function clickHandler() {
     alert("hello");
 }
